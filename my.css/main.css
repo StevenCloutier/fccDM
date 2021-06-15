@@ -1,0 +1,32 @@
+.drum-pad {
+    height: 34px;
+    background-color: chartreuse;
+    color: navy;
+border-color: black;
+border-width: thick;
+padding-bottom: 30px;
+}
+.clip{
+    border-color:red;
+    border-style: solid;
+    
+}
+body{
+    background-color: brown;
+    color: aquamarine;
+    text-align: center;
+}
+#drum-machine{
+    height: 500px;
+    text-align: center;
+    color: crimson;
+    background-color: darkslateblue;
+    border-style: solid;
+    border-color: black;
+}
+h1{
+    color: darkblue;
+}
+#display{
+
+}
